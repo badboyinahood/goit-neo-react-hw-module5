@@ -1,0 +1,20 @@
+.wrapper {
+  padding: 40px;
+  text-align: center;
+}
+
+.title {
+  font-size: 48px;
+  margin-bottom: 16px;
+}
+
+.text {
+  margin-bottom: 24px;
+  font-size: 18px;
+}
+
+.link {
+  text-decoration: none;
+  color: #1976d2;
+  font-size: 18px;
+}

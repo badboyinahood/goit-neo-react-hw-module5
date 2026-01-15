@@ -1,0 +1,19 @@
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 24px;
+}
+
+.item {
+  margin-bottom: 12px;
+}
+
+.link {
+  text-decoration: none;
+  color: #1c1c1c;
+  font-size: 18px;
+}
+
+.link:hover {
+  text-decoration: underline;
+}

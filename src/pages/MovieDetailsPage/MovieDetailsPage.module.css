@@ -1,0 +1,35 @@
+.section {
+  padding: 24px;
+}
+
+.backLink {
+  display: inline-block;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+
+.wrapper {
+  display: flex;
+  gap: 24px;
+}
+
+.poster {
+  width: 250px;
+}
+
+.info {
+  max-width: 600px;
+}
+
+.additional {
+  margin-top: 24px;
+}
+
+.nav {
+  display: flex;
+  gap: 16px;
+}
+
+.link {
+  text-decoration: none;
+}

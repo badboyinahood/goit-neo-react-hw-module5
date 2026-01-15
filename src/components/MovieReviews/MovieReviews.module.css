@@ -1,0 +1,13 @@
+.list {
+  list-style: none;
+  padding: 0;
+  margin-top: 16px;
+}
+
+.item {
+  margin-bottom: 24px;
+}
+
+.author {
+  margin-bottom: 8px;
+}
